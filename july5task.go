@@ -4,8 +4,8 @@ import (
 	"fmt"
 )
 
-func main() {
-	
+func maintask5() {
+
 	var u8 uint8 = 255
 	var u16 uint16 = 65535
 	var u32 uint32 = 4294967295

@@ -8,7 +8,7 @@ import (
 	"strings"
 )
 
-func main() {
+func main4() {
 	//text := "The natural world is a source of immense beauty and joy, providing us with a healthy environment in which to live."
 	text := "good morning good MORNING"
 	wordFreq := make(map[string]int)

@@ -11,7 +11,7 @@ func sumRange(start, end int, ch chan int) {
 	}
 	ch <- sum
 }
-func main() {
+func mainjun25() {
 	ch := make(chan int)
 
 	ranges := [][]int{{1, 10}, {11, 20}, {21, 30}}

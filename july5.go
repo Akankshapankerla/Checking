@@ -2,7 +2,7 @@ package main
 
 import "fmt"
 
-func main() {
+func mainjuly5() {
 	var a int16 = -1000
 	var b int16 = 500
 
